@@ -4,6 +4,13 @@ body {
   
 }
 
+header > h1 {
+ 
+ color:red;
+ text-alignment:center;
+ 
+}
+
 
 h1 {
   
